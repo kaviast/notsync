@@ -1,0 +1,2 @@
+# notsync
+Notification sync app
